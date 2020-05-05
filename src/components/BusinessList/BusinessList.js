@@ -17,4 +17,4 @@ class BusinessList extends React.Component {
     }
 }
 
-export default Business;
+export default BusinessList;
